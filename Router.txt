@@ -1,0 +1,4 @@
+http://router.asus.com/Main_Login.asp
+http://router.asus.com
+https://router.asus.com/Main_Login.asp
+http://router.asus.com
